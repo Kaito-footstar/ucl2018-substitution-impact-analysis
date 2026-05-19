@@ -37,10 +37,6 @@ How did substitutions (Salah 29', Bale 60') impact team attacking structures and
 * seaborn
 * mplsoccer
 
-## Output Examples
-
-(Insert images here)
-
 ## Future Improvements
 
 * xG-based evaluation
