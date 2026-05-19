@@ -29,13 +29,31 @@ How did substitutions (Salah 29', Bale 60') impact team attacking structures and
 * Shot quality improved post-substitution
 * Liverpool's right-side progression dropped significantly after Salah's injury
 
-## Tech Stack
+## Outputs
 
-* Python
+* Real Madrid pass network
+  ![RMA_pass_network](outputs/RMA_pass_network.png)
+* Liverpool pass network
+  ![LIV_pass_network](outputs/LIV_pass_network.png)
+* Shots map
+  ![shot_map](outputs/shot_map.png)
+* Bale's shots map
+  ![Bale_shot_map](outputs/Bale_shot_map.png)
+* Sub player information
+  ![sub_player_information](outputs/sub_player_information)
+* Liverpool heatmap before substitution and after substitution
+  ![LIV_heatmap_before_after](LIV_heatmap_before_after.png)
+* Real Madrid heatmap before substitution and after substitution
+  ![RMA_heatmap_before_after](RMA_heatmap_before_after.png)
+
+## Requirement  
+
 * pandas
 * matplotlib
-* seaborn
+* numpy
 * mplsoccer
+* seaborn
+* statsbombpy
 
 ## Future Improvements
 
